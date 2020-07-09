@@ -5,7 +5,7 @@ import './HeaderBanner.css';
 function HeaderBanner() {
   return (
     <div className="banner">
-      <a href="/"><img src={banner} /></a> 
+      <a href="/CoinMarketRecapPub/"><img src={banner} /></a> 
     </div>
   );
 }

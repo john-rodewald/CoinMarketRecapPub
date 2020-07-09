@@ -19,8 +19,8 @@
   margin: 0.5em;
   padding: 0.5em;
 }
-.navigation .pageDisplay .submitted {
-  display: none;
+.navigation .pageDisplay .submitted input {
+  pointer-events: none;
 }
 .navigation * {
   user-select: none;
