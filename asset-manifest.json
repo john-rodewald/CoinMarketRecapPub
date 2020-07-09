@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/CoinMarketRecapPub/static/css/main.b1c75dfe.chunk.css",
-    "main.js": "/CoinMarketRecapPub/static/js/main.22fdae1f.chunk.js",
-    "main.js.map": "/CoinMarketRecapPub/static/js/main.22fdae1f.chunk.js.map",
+    "main.css": "/CoinMarketRecapPub/static/css/main.5747f539.chunk.css",
+    "main.js": "/CoinMarketRecapPub/static/js/main.8ac5e600.chunk.js",
+    "main.js.map": "/CoinMarketRecapPub/static/js/main.8ac5e600.chunk.js.map",
     "runtime-main.js": "/CoinMarketRecapPub/static/js/runtime-main.359a964e.js",
     "runtime-main.js.map": "/CoinMarketRecapPub/static/js/runtime-main.359a964e.js.map",
     "static/js/2.29cf20e5.chunk.js": "/CoinMarketRecapPub/static/js/2.29cf20e5.chunk.js",
     "static/js/2.29cf20e5.chunk.js.map": "/CoinMarketRecapPub/static/js/2.29cf20e5.chunk.js.map",
     "index.html": "/CoinMarketRecapPub/index.html",
-    "precache-manifest.80056e4a30fe49f412dff5a9eb1eaf7e.js": "/CoinMarketRecapPub/precache-manifest.80056e4a30fe49f412dff5a9eb1eaf7e.js",
+    "precache-manifest.f628eddd55a4295477213ba0555e6c72.js": "/CoinMarketRecapPub/precache-manifest.f628eddd55a4295477213ba0555e6c72.js",
     "service-worker.js": "/CoinMarketRecapPub/service-worker.js",
-    "static/css/main.b1c75dfe.chunk.css.map": "/CoinMarketRecapPub/static/css/main.b1c75dfe.chunk.css.map",
+    "static/css/main.5747f539.chunk.css.map": "/CoinMarketRecapPub/static/css/main.5747f539.chunk.css.map",
     "static/js/2.29cf20e5.chunk.js.LICENSE.txt": "/CoinMarketRecapPub/static/js/2.29cf20e5.chunk.js.LICENSE.txt",
     "static/media/banner.png": "/CoinMarketRecapPub/static/media/banner.dbe8047a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.359a964e.js",
     "static/js/2.29cf20e5.chunk.js",
-    "static/css/main.b1c75dfe.chunk.css",
-    "static/js/main.22fdae1f.chunk.js"
+    "static/css/main.5747f539.chunk.css",
+    "static/js/main.8ac5e600.chunk.js"
   ]
 }
