@@ -24,7 +24,7 @@
     display: grid;
     grid-template-columns: 0.5fr repeat(4, 1fr);
   }
-  .currency .symbol, .currency .circ, .currency .total {
+  .currency .symbol, .currency .circ, .currency .total, .currency .history {
     display: none;
   }
 }
