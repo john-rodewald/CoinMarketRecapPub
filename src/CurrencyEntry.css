@@ -1,0 +1,32 @@
+.currency {
+  display: grid;
+  grid-template-columns: 0.5fr repeat(8, 1fr);
+  border-bottom: 1px solid lightgrey;
+  padding: 0.125em;
+  margin: 0.125em;
+}
+.currency div {
+  text-align: left;
+  margin: 0.25em;
+  align-self: center;
+}
+.currency .change {
+  font-weight: bold;
+}
+.currency .neg {
+  color: red;
+}
+.currency .pos {
+  color: green;
+}
+@media only screen and (max-width: 700px) {
+  .currency {
+    display: grid;
+    grid-template-columns: 0.5fr repeat(4, 1fr);
+  }
+  .currency .symbol, .currency .circ, .currency .total {
+    display: none;
+  }
+}
+
+/*# sourceMappingURL=CurrencyEntry.css.map */

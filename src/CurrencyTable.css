@@ -1,0 +1,37 @@
+.navigation .pageDisplay .pageButton {
+  display: inline-block;
+  background-color: #DDD;
+  border-radius: 4px;
+  margin: 0.5em;
+  padding: 0.5em;
+  cursor: pointer;
+}
+.navigation .pageDisplay .pageButton:hover {
+  background-color: #CCC;
+}
+.navigation .pageDisplay #searchBox, .navigation .pageDisplay #keyBox {
+  display: inline-block;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+.navigation .pageDisplay #results {
+  display: inline-block;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+.navigation .pageDisplay .submitted {
+  display: none;
+}
+.navigation * {
+  user-select: none;
+}
+@media only screen and (max-width: 700px) {
+  .navigation {
+    text-align: -webkit-center;
+  }
+  .navigation .pageDisplay .pageButton {
+    display: table;
+  }
+}
+
+/*# sourceMappingURL=CurrencyTable.css.map */
