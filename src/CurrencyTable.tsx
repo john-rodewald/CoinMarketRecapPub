@@ -2,6 +2,10 @@
 Main program logic (API fetching, processing and displaying) lives here.
 API key is entered in an input form.
 
+For local testing, a CORS Proxy was in place.
+(https://github.com/Rob--W/cors-anywhere)
+On this public version of the WebApp, a different proxy is used.
+
 */
 
 
@@ -19,7 +23,8 @@ function CurrencyTable() {
   const [sortAscending, setAscending] = useState(true)
   const [sortKey, setSortKey]         = useState("rank")
   const [API_KEY, SET_API_KEY]        = useState("")
-
+  
+  const CORS_ANYWHERE = "https://cors-anywhere.herokuapp.com/"
   const totalElems  = entryList.length
   const pageElems   = 50
   const headings = ["rank", "name", "symbol", "circ", "total", "price", "cap", "change", "history"]
@@ -38,7 +43,7 @@ function CurrencyTable() {
 
   // Return latest results as list of objects
   const fetchData = async() => {
-    const URL: string       = "https://sandbox-api.coinmarketcap.com/v1/cryptocurrency/listings/latest"
+    const URL: string       = CORS_ANYWHERE + "https://sandbox-api.coinmarketcap.com/v1/cryptocurrency/listings/latest"
     const CURRENCY: string  = "EUR"
     const AMOUNT: number    = 5000
     var result: any         = {data: []}
@@ -46,16 +51,14 @@ function CurrencyTable() {
     console.log(API_KEY)
   
     const headers = {
-      "Accept": "application/json"
+      "Accept": "application/json",
+      "X-CMC_PRO_API_KEY": API_KEY
     }
     const params = {
       "start": 1,
       "limit": AMOUNT,
-      "convert": CURRENCY,
-      "CMC_PRO_API_KEY": API_KEY
+      "convert": CURRENCY
     }
-    // CORS Proxy
-    // https://github.com/Rob--W/cors-anywhere
     await axios.get(URL, {headers, params})
          .then(r => {result = r.data})
          .catch((err) => {console.log("ERROR (Axios): "); console.log(err);})
