@@ -111,7 +111,7 @@ function CurrencyTable() {
   }
   const handleSort = (e: any) => {
     const newProp = e.target.id
-    setList(sortObjectList(entryList, newProp, sortAscending))
+    setFilteredList(sortObjectList(entryList, newProp, sortAscending))
     setAscending(!sortAscending)
     setSortKey(newProp)
   }

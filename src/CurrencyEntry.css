@@ -9,6 +9,7 @@
   text-align: left;
   margin: 0.25em;
   align-self: center;
+  overflow-wrap: anywhere;
 }
 .currency .change {
   font-weight: bold;
