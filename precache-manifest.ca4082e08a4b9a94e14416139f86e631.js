@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "15817dbb393cc0e8e56e3722b34a4b7d",
+    "revision": "7342e2fbe04e7d40ca5fee4442677793",
     "url": "/CoinMarketRecapPub/index.html"
   },
   {
-    "revision": "fcb1f7b9ead367407039",
-    "url": "/CoinMarketRecapPub/static/css/main.309c87da.chunk.css"
+    "revision": "f576b0220aa56fe6d799",
+    "url": "/CoinMarketRecapPub/static/css/main.0336f495.chunk.css"
   },
   {
     "revision": "1dd05a02c4b95ee64792",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CoinMarketRecapPub/static/js/2.d25e6812.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fcb1f7b9ead367407039",
+    "revision": "f576b0220aa56fe6d799",
     "url": "/CoinMarketRecapPub/static/js/main.be84536f.chunk.js"
   },
   {

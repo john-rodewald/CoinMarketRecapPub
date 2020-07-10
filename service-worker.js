@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CoinMarketRecapPub/precache-manifest.dd0a7d3cfbc2cee3eef09e296996fc68.js"
+  "/CoinMarketRecapPub/precache-manifest.ca4082e08a4b9a94e14416139f86e631.js"
 );
 
 self.addEventListener('message', (event) => {

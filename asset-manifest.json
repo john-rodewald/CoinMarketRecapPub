@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CoinMarketRecapPub/static/css/main.309c87da.chunk.css",
+    "main.css": "/CoinMarketRecapPub/static/css/main.0336f495.chunk.css",
     "main.js": "/CoinMarketRecapPub/static/js/main.be84536f.chunk.js",
     "main.js.map": "/CoinMarketRecapPub/static/js/main.be84536f.chunk.js.map",
     "runtime-main.js": "/CoinMarketRecapPub/static/js/runtime-main.359a964e.js",
@@ -8,16 +8,16 @@
     "static/js/2.d25e6812.chunk.js": "/CoinMarketRecapPub/static/js/2.d25e6812.chunk.js",
     "static/js/2.d25e6812.chunk.js.map": "/CoinMarketRecapPub/static/js/2.d25e6812.chunk.js.map",
     "index.html": "/CoinMarketRecapPub/index.html",
-    "precache-manifest.dd0a7d3cfbc2cee3eef09e296996fc68.js": "/CoinMarketRecapPub/precache-manifest.dd0a7d3cfbc2cee3eef09e296996fc68.js",
+    "precache-manifest.ca4082e08a4b9a94e14416139f86e631.js": "/CoinMarketRecapPub/precache-manifest.ca4082e08a4b9a94e14416139f86e631.js",
     "service-worker.js": "/CoinMarketRecapPub/service-worker.js",
-    "static/css/main.309c87da.chunk.css.map": "/CoinMarketRecapPub/static/css/main.309c87da.chunk.css.map",
+    "static/css/main.0336f495.chunk.css.map": "/CoinMarketRecapPub/static/css/main.0336f495.chunk.css.map",
     "static/js/2.d25e6812.chunk.js.LICENSE.txt": "/CoinMarketRecapPub/static/js/2.d25e6812.chunk.js.LICENSE.txt",
     "static/media/banner.png": "/CoinMarketRecapPub/static/media/banner.dbe8047a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.359a964e.js",
     "static/js/2.d25e6812.chunk.js",
-    "static/css/main.309c87da.chunk.css",
+    "static/css/main.0336f495.chunk.css",
     "static/js/main.be84536f.chunk.js"
   ]
 }
