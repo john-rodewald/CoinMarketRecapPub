@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/CoinMarketRecapPub/static/css/main.76484be0.chunk.css",
-    "main.js": "/CoinMarketRecapPub/static/js/main.8ac5e600.chunk.js",
-    "main.js.map": "/CoinMarketRecapPub/static/js/main.8ac5e600.chunk.js.map",
+    "main.css": "/CoinMarketRecapPub/static/css/main.e9c775c3.chunk.css",
+    "main.js": "/CoinMarketRecapPub/static/js/main.828c61a1.chunk.js",
+    "main.js.map": "/CoinMarketRecapPub/static/js/main.828c61a1.chunk.js.map",
     "runtime-main.js": "/CoinMarketRecapPub/static/js/runtime-main.359a964e.js",
     "runtime-main.js.map": "/CoinMarketRecapPub/static/js/runtime-main.359a964e.js.map",
-    "static/js/2.29cf20e5.chunk.js": "/CoinMarketRecapPub/static/js/2.29cf20e5.chunk.js",
-    "static/js/2.29cf20e5.chunk.js.map": "/CoinMarketRecapPub/static/js/2.29cf20e5.chunk.js.map",
+    "static/js/2.d25e6812.chunk.js": "/CoinMarketRecapPub/static/js/2.d25e6812.chunk.js",
+    "static/js/2.d25e6812.chunk.js.map": "/CoinMarketRecapPub/static/js/2.d25e6812.chunk.js.map",
     "index.html": "/CoinMarketRecapPub/index.html",
-    "precache-manifest.44f348dc3cd0986dab834d1dabef0a67.js": "/CoinMarketRecapPub/precache-manifest.44f348dc3cd0986dab834d1dabef0a67.js",
+    "precache-manifest.d53b355d30343de9097a22431d1d9252.js": "/CoinMarketRecapPub/precache-manifest.d53b355d30343de9097a22431d1d9252.js",
     "service-worker.js": "/CoinMarketRecapPub/service-worker.js",
-    "static/css/main.76484be0.chunk.css.map": "/CoinMarketRecapPub/static/css/main.76484be0.chunk.css.map",
-    "static/js/2.29cf20e5.chunk.js.LICENSE.txt": "/CoinMarketRecapPub/static/js/2.29cf20e5.chunk.js.LICENSE.txt",
+    "static/css/main.e9c775c3.chunk.css.map": "/CoinMarketRecapPub/static/css/main.e9c775c3.chunk.css.map",
+    "static/js/2.d25e6812.chunk.js.LICENSE.txt": "/CoinMarketRecapPub/static/js/2.d25e6812.chunk.js.LICENSE.txt",
     "static/media/banner.png": "/CoinMarketRecapPub/static/media/banner.dbe8047a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.359a964e.js",
-    "static/js/2.29cf20e5.chunk.js",
-    "static/css/main.76484be0.chunk.css",
-    "static/js/main.8ac5e600.chunk.js"
+    "static/js/2.d25e6812.chunk.js",
+    "static/css/main.e9c775c3.chunk.css",
+    "static/js/main.828c61a1.chunk.js"
   ]
 }
