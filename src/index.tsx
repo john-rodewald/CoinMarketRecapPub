@@ -1,3 +1,9 @@
+/* 
+index page
+
+Main program logic sits in CurrencyTable.tsx
+*/
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import * as serviceWorker from './serviceWorker';

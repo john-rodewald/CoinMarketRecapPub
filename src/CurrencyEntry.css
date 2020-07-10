@@ -22,9 +22,9 @@
 @media only screen and (max-width: 700px) {
   .currency {
     display: grid;
-    grid-template-columns: 0.5fr repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
   }
-  .currency .symbol, .currency .circ, .currency .total, .currency .history {
+  .currency .symbol, .currency .circ, .currency .total, .currency .history, .currency .cap, .currency .rank {
     display: none;
   }
 }

@@ -11,9 +11,9 @@
 @media only screen and (max-width: 700px) {
   .headings {
     display: grid;
-    grid-template-columns: 0.5fr repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
   }
-  .headings #symbol, .headings #circ, .headings #total, .headings #history {
+  .headings #symbol, .headings #circ, .headings #total, .headings #history, .headings #cap, .headings #rank {
     display: none;
   }
 }
