@@ -1,14 +1,10 @@
 .navigation .pageDisplay .pageButton {
   display: inline-block;
-  background-color: #DDD;
-  border-radius: 4px;
+  border: none;
   margin: 0.5em;
   padding: 0.5em;
   cursor: pointer;
   user-select: none;
-}
-.navigation .pageDisplay .pageButton:hover {
-  background-color: #CCC;
 }
 .navigation .pageDisplay #searchBox {
   display: inline-block;
